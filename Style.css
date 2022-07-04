@@ -1,0 +1,32 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.blue-color{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#feb236, #ff7b25);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(image/color.png);
+    background-repeat: no-repeat;
+}
